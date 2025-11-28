@@ -4,7 +4,7 @@ This project serves as a conceptual and functional foundation for the Volatus Ae
 
 The core deliverable is a single, fully responsive HTML file designed to serve as a robust template for future development within environments like WordPress/Elementor.
 
-🚀 Key Improvements & Design Approach
+Key Improvements & Design Approach
 
 1. Simplified Navigation & Segmentation
 
@@ -28,7 +28,7 @@ High-Contrast Hero: Used background opacity to guarantee maximum readability for
 
 The layout is built with multi-breakpoint Tailwind CSS classes (sm:, lg:) to ensure adaptive grid behavior and prevent layout breakage on any screen size (mobile, tablet, and desktop).
 
-🛠️ Technology Stack
+Technology Stack
 
 Structure: HTML5
 
